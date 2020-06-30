@@ -1,4 +1,5 @@
 # Movie Recommendation with ALS and Spark APIs
+[Notebook](https://nbviewer.jupyter.org/github/bb-li/Movie-Recommendation-with-ALS-and-Spark-APIs/blob/master/Moive_data_MLbased.ipynb)
  use an Alternating Least Squares (ALS) algorithm with Spark APIs to predict the ratings for the movies.
 
 When we are doing online shopping or visiting video websites, like Amazon and Hulu, we always see a list named “You may also like”. I am very curious about how the online shopping or video platform come up with this list. And I want to use the data analysis technique to recommend products to different users and find out the similar products for the specific products.
